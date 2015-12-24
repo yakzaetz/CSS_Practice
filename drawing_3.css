@@ -1,0 +1,37 @@
+.abcd {
+	width: 400px;
+}
+
+.a {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+
+.b {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	margin-top: -100px;
+	float: right;
+}
+
+.c {
+	height: 100px;
+	width: 400px;
+	background-color: green;
+}
+
+.d {
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+}
+
+.e {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	margin-top: -100px;
+	float: right;
+}

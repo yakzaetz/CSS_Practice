@@ -1,0 +1,94 @@
+.aa {
+	width: 800px;
+	height: auto;
+	display: block;
+}
+
+.a {
+	background-color: lightgreen;
+	height: 100px;
+	width: 300px;
+	display: block;
+	float: left;
+}
+
+.b {
+	background-color: yellow;
+	height: 100px;
+	width: 200px;
+	display: block;
+	float: left;
+}
+
+.c {
+	background-color: gold;
+	height: 100px;
+	width: 300px;
+	display: block;
+	float: left;
+}
+
+.d {
+	background-color: grey;
+	height: 200px;
+	width: 75px;
+	display: block;
+	float: left;
+}
+
+.e {
+	background-color: silver;
+	height: 200px;
+	width: 75px;
+	display: block;
+	float: left;
+}
+
+.f {
+	background-color: black;
+	height: 200px;
+	width: 75px;
+	display: block;
+	float: left;
+}
+
+.g {
+	background-color: red;
+	height: 200px;
+	width: 75px;
+	display: block;
+	float: left;
+}
+
+.h {
+	background-color: purple;
+	height: 200px;
+	width: 75px;
+	display: block;
+	float: left;
+}
+
+.i {
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+	display: block;
+	float: left;
+	clear: left;
+}
+
+.j {
+	background-color: green;
+	height: 100px;
+	width: 400px;
+	display: block;
+	float: left;
+}
+
+.k {
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	display: block;
+	float: left;
+}
